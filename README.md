@@ -1,0 +1,4 @@
+stegosaurus
+===========
+
+Simple steganography tool.
